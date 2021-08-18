@@ -1,4 +1,4 @@
-#SageMaker
+# SageMaker
 
 * first let's create a notebook instance with notebook jupyter
 * Prepare the data
