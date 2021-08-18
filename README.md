@@ -26,7 +26,7 @@ The link to the training raw file is on that link.
 ## Now let's deploy this model on an endpoint and run the to perform predictions
 ## Let's take our data and load it into an array and evaluate the performance of the model.
 
-With the data generated if it were the case we could use this analysis to make a specific Marketing for that group of customers.
+## With the data generated if it were the case we could use this analysis to make a specific Marketing for that group of customers.
 Done that we can delete our services on AWS because it brings savings.
 
 
